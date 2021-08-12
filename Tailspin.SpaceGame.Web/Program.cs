@@ -14,5 +14,6 @@ namespace TailSpin.SpaceGame.Web
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
 
+
     }
 }
